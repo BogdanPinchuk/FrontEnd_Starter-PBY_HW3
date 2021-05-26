@@ -1,0 +1,42 @@
+/* Стилі для статі із першого уроку 3-го завдання */
+
+/* Згідно зауваження, заміними міліметри на пікселі */
+
+div {
+    margin: 75px;
+}
+
+/* Heders */
+
+h2 {
+    margin-bottom: 20px;
+    font-weight: normal;
+}
+
+h4 {
+    margin-top: 0px; 
+    margin-bottom: 0px; 
+    font-weight: normal;
+}
+
+/* Paragraps */
+
+#id_p1{
+    text-align: justify;
+}
+
+#id_p2{
+    text-align: justify;
+    margin-bottom: 0px;
+}
+
+#id_p3{
+    text-align: justify;
+    margin-top: 0px;
+}
+
+/* References */
+
+.cite_class{
+    text-decoration: none;
+}
