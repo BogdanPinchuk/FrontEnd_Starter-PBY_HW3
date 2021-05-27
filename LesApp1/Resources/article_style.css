@@ -37,6 +37,10 @@ h4 {
 
 /* References */
 
+a{
+    color: black;
+}
+
 .cite_class{
     text-decoration: none;
 }
