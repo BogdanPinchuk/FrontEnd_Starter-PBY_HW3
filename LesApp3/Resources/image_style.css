@@ -1,0 +1,44 @@
+/* Задання фону для параграфів */
+
+div {
+    margin: 50px;
+}
+
+p {
+    text-align: justify;
+    padding: 10px;
+    border-radius: 15px;
+    border: 1px solid black;
+}
+
+#id_1{
+    background-image: url(Lumiere.jpg);
+    background-size: cover;
+    background-position: center;
+}
+
+#id_2{
+    background-color: gold;
+}
+
+/* color of rubine */
+#id_3{
+    background-color: #D22F64;
+}
+
+/* color of izumrude */
+#id_4{
+    background-color: rgba(22, 112, 61, 0.75);
+}
+
+#id_5{
+    background-image: url(BreakingBad.jpg);
+    opacity: 0.75;
+    background-size: contain;
+    background-repeat: space;
+}
+
+/* color of tanzanite */
+#id_6{
+    background-color: hsl(238, 100%, 82%);
+}
